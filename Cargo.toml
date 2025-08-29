@@ -319,7 +319,7 @@ chromiumoxide = { version = "0.5.4", features = [
 ], default-features = false }
 # For matching on errors from chromiumoxide. Keep in
 # sync with chromiumoxide's tungstenite requirement.
-tungstenite = "0.20.1"
+tungstenite = "0.21.0"
 
 # flate2_zlib requires zlib, use flate2_rust
 allsorts = { version = "0.14.0", default-features = false, features = [
@@ -416,7 +416,7 @@ tempfile = "3.3.0"
 thread_local = "1.1.8"
 thiserror = "1.0.48"
 tiny-gradient = "0.1.0"
-tokio = "1.43.0"
+tokio = "1.47.1"
 tokio-util = { version = "0.7.13", features = ["io", "rt"] }
 tracing = "0.1.37"
 tracing-subscriber = "0.3.16"
