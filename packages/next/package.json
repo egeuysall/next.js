@@ -101,7 +101,7 @@
     "@swc/helpers": "0.5.15",
     "baseline-browser-mapping": "^2.9.19",
     "caniuse-lite": "^1.0.30001579",
-    "postcss": "8.4.31",
+    "postcss": "8.5.10",
     "styled-jsx": "5.1.6"
   },
   "peerDependencies": {
@@ -348,7 +348,7 @@
     "webpack": "5.98.0",
     "webpack-sources1": "npm:webpack-sources@1.4.3",
     "webpack-sources3": "npm:webpack-sources@3.2.3",
-    "ws": "8.2.3",
+    "ws": "8.20.1",
     "zod": "3.25.76",
     "zod-validation-error": "3.4.0"
   },
